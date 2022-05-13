@@ -1,4 +1,5 @@
 # Setup
+- You need [node](https://nodejs.org/en/) installed in your computer
 - Clone repo or download zip
 - Download dependencies an link packages:
 ```
