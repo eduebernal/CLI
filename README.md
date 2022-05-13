@@ -31,6 +31,7 @@ bash my-ledger.sh reg
 - Implement balance command (need item 1 of the list)
 - Implement sort flag (by date and by amount)
 - Implement price-db flag (save set of unique currencies and convert on write)
+- Implement optional filter words (The CLI accepts the additional arguments, it does nothing with them)
 
 # Screenshots
 ### Print
