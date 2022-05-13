@@ -30,7 +30,7 @@ bash my-ledger.sh reg
 - Choose an adequate data structure to store data from each entry
 - Finish implementing register command (align output format, consider different currencies)
 - Implement balance command (need item 1 of the list)
-- Implement sort flag (by date and by amount)
+- Implement sort flag
 - Implement price-db flag (save set of unique currencies and convert on write)
 - Implement optional filter words (The CLI accepts the additional arguments, it does nothing with them)
 
